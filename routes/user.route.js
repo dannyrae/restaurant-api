@@ -3,7 +3,7 @@ const { signup, login } = require('../controllers/user.controller')
 
 const router = express.Router()
 
-router.route('/register')
+router.route('/signup')
     .post(signup)
 
 router.route('/login')
