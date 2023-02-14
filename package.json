@@ -1,5 +1,5 @@
 {
-  "name": "user-management-api",
+  "name": "restaurant-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dannyrae/user-management-api.git"
+    "url": "git+https://github.com/dannyrae/restaurant-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dannyrae/user-management-api/issues"
+    "url": "https://github.com/dannyrae/restaurant-api/issues"
   },
-  "homepage": "https://github.com/dannyrae/user-management-api#readme",
+  "homepage": "https://github.com/dannyrae/restaurant-api#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "express": "^4.18.2",
